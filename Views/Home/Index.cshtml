@@ -1,0 +1,27 @@
+﻿@page
+@model Index
+@{
+
+    //ViewData["Title"] = "Home page";
+
+    var calenderJp = new System.Globalization.JapaneseCalendar();
+
+    var cultureJp = new System.Globalization.CultureInfo("ja-jp", false);
+
+
+    cultureJp.DateTimeFormat.Calendar = calenderJp;
+
+
+    var today = DateTime.Now.ToString("ggyy.MM.dd", cultureJp);
+
+
+}
+
+
+<div class="text-center">
+
+    <h1 class="display-4">@today</h1>
+
+    <p>Learn about <a href=https://docs.microsoft.com/aspnet/core>building Web apps with ASP.NET Core</a>.</p>
+
+</div>

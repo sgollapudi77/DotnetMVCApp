@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>MVC_App</RootNamespace>
+    <UserSecretsId>5b211462-aadf-40b6-b182-9c2bdb7f4a70</UserSecretsId>
+  </PropertyGroup>
+
+</Project>

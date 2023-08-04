@@ -1,0 +1,30 @@
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\appsettings.Development.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\appsettings.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\MVC App.staticwebassets.runtime.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\MVC App.exe
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\MVC App.deps.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\MVC App.runtimeconfig.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\MVC App.dll
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\bin\Release\net6.0\MVC App.pdb
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.AssemblyInfoInputs.cache
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.AssemblyInfo.cs
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.csproj.CoreCompileInputs.cache
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.RazorAssemblyInfo.cache
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.RazorAssemblyInfo.cs
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets\msbuild.MVC App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets\msbuild.build.MVC App.props
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC App.props
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.MVC App.props
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\scopedcss\bundle\MVC App.styles.css
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\scopedcss\projectbundle\MVC App.bundle.scp.css
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.dll
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\refint\MVC App.dll
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.pdb
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\MVC App.genruntimeconfig.cache
+C:\Users\sgollapudi\Documents\LinuxApps\MVC App\obj\Release\net6.0\ref\MVC App.dll
